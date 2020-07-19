@@ -1,0 +1,1 @@
+# seo-friendly-typed-animation
