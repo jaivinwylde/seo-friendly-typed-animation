@@ -1,3 +1,7 @@
+p {
+    font-size: 20px;
+}
+
 /* Create cursor for type class */
 .type {
     position: relative;
@@ -6,7 +10,7 @@
     content: "|";
     position: absolute;
     background-color: #000;
-    font-size: 13px;
+    font-size: 20px;
     right: -5px;
 }
 .type.blink::after {
