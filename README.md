@@ -18,3 +18,7 @@ Write HTML like this:
 ```
 
 The words in the data-words attribute will be what is typed out in the animation. You can make the actual text of the tag something important to your SEO.
+
+### Styling
+
+You can style the type class's ::after pseudo element to change the look of the cursor. You can also edit the timing variables in the javascript.
