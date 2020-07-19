@@ -21,4 +21,4 @@ The words in the data-words attribute will be what is typed out in the animation
 
 ### Styling
 
-You can style the type class's ::after pseudo element to change the look of the cursor. You can also edit the timing variables in the javascript.
+You can style the type class's ::after pseudo element to change the look of the cursor. You can also edit the timing variables, and easing function in the javascript.
