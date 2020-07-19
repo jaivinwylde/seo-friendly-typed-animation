@@ -6,7 +6,8 @@
     content: "|";
     position: absolute;
     background-color: #000;
-    right: -15px;
+    font-size: 16px;
+    right: -5px;
 }
 .type.blink::after {
     animation: blink 800ms ease-in-out infinite;
