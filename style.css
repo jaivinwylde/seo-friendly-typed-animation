@@ -6,7 +6,7 @@
     content: "|";
     position: absolute;
     background-color: #000;
-    font-size: 16px;
+    font-size: 13px;
     right: -5px;
 }
 .type.blink::after {
