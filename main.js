@@ -11,6 +11,7 @@ type_classes.forEach((type) => {
     };
 
     type.textContent = "";
+    type.style.height = type.style.fontSize - 1;
     const words = type.dataset.words.split(", ");
 
     const type_timeline = anime.timeline({
