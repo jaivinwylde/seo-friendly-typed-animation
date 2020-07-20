@@ -4,9 +4,10 @@ h1 {
 
 /* Create cursor for type class */
 .type {
-    position: relative;
-    height: 100%;
+    display: inline-block;
     width: 100%;
+    height: 100%;
+    position: relative;
 }
 .type::after {
     content: "|";
