@@ -10,7 +10,8 @@ h1 {
     content: "|";
     position: absolute;
     background-color: #000;
-    width: 1px;
+    width: 100%;
+    height: 100%
     font-size: 20px;
     right: -5px;
 }
