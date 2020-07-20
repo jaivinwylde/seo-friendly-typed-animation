@@ -5,6 +5,7 @@ h1 {
 /* Create cursor for type class */
 .type {
     position: relative;
+    min-width: 1px;
 }
 .type::after {
     content: "|";
