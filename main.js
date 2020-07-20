@@ -17,6 +17,7 @@ type_classes.forEach((type) => {
         targets: counter_object,
         easing: "linear",
         complete: () => {
+            type.textContent = " ";
             type_timeline.play();
         }
     });
