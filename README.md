@@ -13,7 +13,7 @@ You can find an example here: https://jaivinwylde.github.io/seo-friendly-typed-a
 
 Write HTML like this:
 
-```
+```html
 <h1>This is <span class="type" data-words="a test., an experiment., a trial., an exercise.">a test.</span></h1>
 ```
 
